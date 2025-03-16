@@ -70,4 +70,3 @@ power_share_bar = px.bar(
 )
 
 plotly(power_share_bar)
-print(df.shape)
